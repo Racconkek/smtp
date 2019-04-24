@@ -1,0 +1,5 @@
+from: Raccoon-kek@yandex.ru
+to: Raccoon-kek@yandex.ru Lyuda-mirosh@mail.ru Lyuda.mirosh@gmail.com
+password: belladonna
+subject: Тестовое письмо
+attachments: icon.png wolf.jpg
